@@ -2202,7 +2202,7 @@
   "booking_uid": "预订 UID",
   "kbar_search_placeholder": "输入命令或搜索...",
   "kbar_search_help_desk_prefix": "在我们的帮助中心搜索",
-  "kbar_search_help_desk_suffix": "",
+  "kbar_search_help_desk_suffix": "在我们的帮助中心",
   "kbar_no_results_found": "未找到结果",
   "invalid_credential": "哦不！看起来权限已过期或被撤销。请重新安装。",
   "invalid_credential_action": "重新安装应用",
